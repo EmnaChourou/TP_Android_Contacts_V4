@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Gestion de Contacts</string>
+    <string name="title_liste_contacts">Mes Contacts</string>
+    <string name="title_detail_contact">Détail du Contact</string>
+    <string name="title_nouveau_contact">Nouveau Contact</string>
+    <string name="title_carte_contact">Localisation GPS</string>
+    <string name="title_parametres">Paramètres</string>
+
+    <string name="search_hint">Rechercher par nom, prénom ou tél...</string>
+    <string name="empty_contacts_message">Aucun contact ne correspond à votre recherche</string>
+
+    <string name="label_nom">Nom *</string>
+    <string name="label_prenom">Prénom *</string>
+    <string name="label_telephone">Téléphone *</string>
+    <string name="label_email">Adresse e-mail</string>
+    <string name="label_latitude">Latitude (-90 à 90)</string>
+    <string name="label_longitude">Longitude (-180 à 180)</string>
+
+    <string name="btn_appeler">Appeler</string>
+    <string name="btn_email">E-mail</string>
+    <string name="btn_galerie">Galerie</string>
+    <string name="btn_camera">Caméra</string>
+    <string name="btn_voir_carte">Voir sur la carte</string>
+    <string name="btn_enregistrer">Enregistrer</string>
+    <string name="btn_supprimer">Supprimer</string>
+    <string name="btn_annuler">Annuler</string>
+
+    <string name="dialog_delete_title">Supprimer le contact</string>
+    <string name="dialog_delete_message">Voulez-vous vraiment supprimer ce contact ?</string>
+    <string name="dialog_yes">Oui</string>
+    <string name="dialog_no">Non</string>
+
+    <string name="error_champs_obligatoires">Veuillez remplir les champs obligatoires (Nom, Prénom, Tél)</string>
+    <string name="error_coordinates_invalid">Latitude must be between -90 and 90, Longitude between -180 and 180</string>
+    <string name="error_no_coordinates">Ce contact n\'a aucune position GPS définie</string>
+    <string name="contact_saved_success">Contact enregistré avec succès</string>
+    <string name="contact_deleted_success">Contact supprimé</string>
+    <string name="no_app_available">Aucune application disponible</string>
+</resources>
